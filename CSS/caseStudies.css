@@ -1,0 +1,155 @@
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 75px;
+  }
+  .brand-name-Ryan{
+   font-size: 60px;
+   font-family: permanent-marker-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    width:100px;
+    height: auto;
+  line-height: 37px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+    float:inline-end;
+  }
+  
+  .dropdown-menu {
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+  }
+  .dropdown-item:focus, .dropdown-item:hover {
+      color: #16181b;
+      text-decoration: none;
+      background: black;
+  }
+  
+  .customNav a {
+    color: white !important;
+  }
+
+.title1{
+    text-align: center;
+}
+/*
+.h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;
+}
+*/
+.title1 h3{
+    font-family: agenda, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+}
+.caseStudy1{
+    display: inline-block;
+}
+.caseStudy1img{
+    Margin-left: 40px;
+    padding-right: 116;
+    height: 568px;
+    width: auto;
+    float: left;
+    background-image: url(../HTML/Roomie.html);
+}
+.caseStudy1text{
+    margin-right: 40px;
+    float: right;
+    width: 784px;
+}
+.caseStudy1text h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.caseStudy1text b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;
+}
+.caseStudy2{
+    display: inline-block;
+}
+.caseStudy2text{
+    margin-left:40px;
+    float: left;
+    width: 887px;
+}
+.caseStudy2text h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.caseStudy2text b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;
+}
+.caseStudy2img{
+    margin-right: 40px;
+    padding-left: 116px;
+    float: right;
+    height: 647px;
+    width:auto;
+}
+
+.caseStudy3{
+    display: inline-block;
+}
+.caseStudy3img{
+    margin-left: 40px;
+    padding-right: 116px;
+    float: left;
+   height: 637;
+   width: auto; 
+}
+.caseStudy3text{
+    margin-right: 40px;
+    float: Right;
+    width: 782px;
+}
+.caseStudy3text h2{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+}
+.caseStudy3text b1{
+    font-family: agenda, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    font-stretch: 5%;  
+}

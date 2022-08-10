@@ -1,0 +1,134 @@
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 75px;
+  }
+  .brand-name-Ryan{
+   font-size: 60px;
+   font-family: permanent-marker-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    width:100px;
+    height: auto;
+  line-height: 37px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+    float:inline-end;
+  }
+  
+  .dropdown-menu {
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+  }
+  .dropdown-item:focus, .dropdown-item:hover {
+      color: #16181b;
+      text-decoration: none;
+      background: black;
+  }
+  
+  .customNav a {
+    color: white !important;
+  }
+
+.profile{
+    display:inline-block
+}
+.profileImg{
+    width: 670px;
+    height: 671px;
+    margin-left: 40px;
+    padding-right: 20px;
+    border-radius: 50%;
+    float: left;
+  }
+
+.profileText{
+    float: right;
+    margin-right: 40px;
+    width: 670px;
+}
+.profileText h5{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 5%;
+    font-size: 50px;
+    margin-top: 90px;
+}
+.profileText B2{
+    font-family: agenda, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 35px;
+    line-height: 37px;
+    padding-top: 50px;
+}
+.mySkills{
+    display: inline-block;
+}
+.mySkills H5{
+    font-family: agenda, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 5%;
+    text-align: center;
+}
+.skill1{
+    flex-direction: row;
+    background-color: #a6212c;
+    color: white;
+    border-radius: 50%;
+    width: 440px;
+    height: 440px;
+   /* text-align: center; */
+}
+.skill1 h4{
+text-align: center;
+font-family: agenda, sans-serif;
+font-weight: 600;
+font-style: normal;
+font-size: 40px;
+width: 249px;
+height: 96px;
+}
+.skill1 b3{
+    font-family: agenda, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    text-align: center;
+    margin: 25px 0 0;
+    width: 267px;
+    height: 259px;
+    line-height: 37px;
+    letter-spacing: 1.25px;
+}
+.skill2{
+    flex-direction: row;
+    background-color: #f29f05;
+    color: black;
+    border-radius:50%;
+    width: 440px;
+    height:440px;
+}
+.skill3{
+    flex-direction: row;
+    background-color: #024873;
+    color: white;
+    border-radius: 50%;
+    width: 440px;
+    height: 440px;
+}
