@@ -1,0 +1,128 @@
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 75px;
+  }
+  .brand-name-Ryan{
+   font-size: 60px;
+   font-family: permanent-marker-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    width:100px;
+    height: auto;
+  line-height: 37px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+    float:inline-end;
+  }
+  
+  .dropdown-menu {
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+  }
+  .dropdown-item:focus, .dropdown-item:hover {
+      color: #16181b;
+      text-decoration: none;
+      background: black;
+  }
+  
+  .customNav a {
+    color: white !important;
+  }
+  .title{
+    text-align: center;
+  }
+  .top{
+    display: inline-block;
+  }
+  .roomieNav{
+    flex: left;
+    font-size: 35px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+  }
+  .roomieOverview{
+    float: right;
+    padding-bottom: 50px;
+  }
+  .P1 img{
+    float:right;
+  }
+  .P1 h3{
+    font-size: 60px;
+  }
+  .P1 b3{
+    font-size: 36px;
+  }
+  .problem{
+    padding-top: 25px;
+  }
+  .problem h3{
+    font-size: 60px;
+    text-align:center;
+  }
+  .pr1{
+    padding-top: 20px;
+    font-size: 36px;
+  }
+  .pr2{
+    padding-top: 20px;
+    font-size: 36px;
+  }
+  .pr3{
+    padding-top: 20px;
+    font-size: 36px;
+  }
+.P2 h3{
+  float:right;
+}
+.P2 b3{
+  float: right;
+}
+  
+  
+  
+  .circles{
+    display: inline-block;
+  }
+
+  .redCircle{
+    background-color:#a6212c;
+    color: white;
+    border-radius: 50%;
+    height: 440px;
+    width: 440px;
+    text-align: center;
+    display:inline-block
+  }
+  .yellowCircle{
+    background-color: #f29f05;
+    color: black;
+    border-radius: 50%;
+    Height: 440px;
+    width: 440px;
+    text-align: center;
+    display:inline-block
+  }
+  .blueCircle{
+    background-color:#024873;
+    color: white;
+    border-radius: 50%;
+    height: 440px;
+    width: 440px;
+    text-align:center;
+    display: inline-block;
+  }
